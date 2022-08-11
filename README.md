@@ -1,4 +1,4 @@
-# Singly-linked-list
+# Gegography Guide (Singly-linked-list)
 
 ## Screenshots
 
